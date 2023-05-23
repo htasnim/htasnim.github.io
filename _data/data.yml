@@ -3,12 +3,12 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Humayra Tasnim
-    tagline: Researcher
+    tagline: PhD Candidate
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -62,24 +62,23 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: PhD Candidatein Computer Science
+      - degree: PhD Candidate, Computer Science
         university: University of New Mexico
         time: 2016 - Present
-        details: Expected Graduation Fall 2023
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+           Expected Graduation Fall 2023
+      - degree: MS, Computer Science
+        university: University of New Mexico
+        time: Fall 2021
+        
+      - degree: MS, Computer Science and Engineering
+        university: University of Dhaka
+        time: 2014 -2015
+        
+       
+      - degree: BS, Computer Science and Engineering
+        university: University of Dhaka
+        time: 2009 - 2013
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
