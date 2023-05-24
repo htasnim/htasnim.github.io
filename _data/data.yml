@@ -39,35 +39,51 @@ sidebar:
          # level: Professional
 
     interests:
-      title: Interests
+      title: References
       info:
-        - item: Reading
+        - item: Professor Melanie Moses
           link:
 
-        - item: Biking
+        - item: Goerge Matthew Fricke
           link:
+
+        - item: Soumya Dutta
+          link:
+
+        - item: Steven Hofmeyr 
+          link:
+
+
+
 
 
 career-profile:
     title: Career Profile
     summary: |
-      I am a Ph.D. candidate in Computer Science at the University of New Mexico (UNM), expected to graduate in the fall of 2023. I earned an MS in Computer Science from UNM in 2021. I received my Master’s and Bachelor’s Degrees in Computer Science and Engineering from the sUniversity of Dhaka, Bangladesh.
+      I am a Ph.D. candidate in Computer Science at the University of New Mexico (UNM), 
+      expected to graduate in the fall of 2023. I earned an MS in Computer Science from 
+      UNM in 2021. I received my Master’s and Bachelor’s Degrees in Computer Science 
+      and Engineering from the University of Dhaka, Bangladesh.
 
       
-      I am working as a Research Assistant under the supervision of Dr. Melanie Moses at Moses 
-      Biocomputational lab. My research primarily focuses on using computational tools to 
+      I am working as a Research Assistant under the supervision of [Professor Melanie Moses](https://www.cs.unm.edu/directory/faculty-profiles/melanie-moses.html) 
+      at [Moses Biological Computational lab](https://moseslab.cs.unm.edu/). My research primarily focuses on using computational tools to 
       understand complex biological systems, with a particular emphasis on applying information 
       theory-based frameworks to large-scale image datasets. My work has the potential to make 
       significant contributions to the understanding of a variety of biological phenomena, 
       including the immune response to infections like SARS-CoV-2.
+
+
 
 education:
     title: Education
     info:
       - degree: PhD Candidate, Computer Science
         university: University of New Mexico
-        time: 2016 - Present 
-              Expected Graduation Fall 2023
+        time: |
+          2016 - Present 
+          
+          Expected Graduation Fall 2023
         details: |
            Expected Graduation Fall 2023
       - degree: MS, Computer Science
@@ -220,5 +236,5 @@ skills:
       - name: Sketch & Photoshop
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+ #   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
