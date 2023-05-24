@@ -103,7 +103,6 @@ education:
       - degree: BS, Computer Science and Engineering
         university: University of Dhaka
         time: 2009 - 2013
-        details: |
          
 experiences:
     title: Experiences
@@ -155,12 +154,12 @@ experiences:
             
 projects:
     title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    #intro: >
+     # You can list your side projects in this
+      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Quantitative Measurement of Spatial Association in Biological Systems 
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
