@@ -116,43 +116,28 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Research Assistant
+        time: 2017 - Present
+        company: Moses Biological Computation Lab, CS, UNM
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Use computer modeling, statistical tools, and simulations to analyze and comprehend complex biological systems scenarios such as spatial association, cell motility, signaling, search behaviors, and localization.
+            - Develop information theory-based frameworks that enable the analysis and identification of spatial and temporal relationships within large-scale image datasets.
+      - role: Summer Research Intern
+        time: June 2023 - August 2023
+        company: Lawrence Berkeley National Laboratory (LBNL) 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            - Onboarding intern at Computer Languages and Systems Software Group.
+            - Topic: Analyzing T-Cell Behavior for Immune Response in SARS-CoV-2 Patients using CT Scans and 
+             [SIMCoV Model](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009735)
+      - role: Summer Research Intern
+        time: June 2023 - August 2023
+        company: Lawrence Berkeley National Laboratory (LBNL)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Research internship funded by Sustainable Research Pathways for High-Performance Computing 
+            [(SRP-HPC)](https://shinstitute.org/sustainable-research-pathways-2022/)program.
+            - Topic: Analyzing Spatial Features of SARS-CoV-2 Infection Spread in Human Lung using CT Scans Compared 
+            to SIMCoV Model.
+            
 projects:
     title: Projects
     intro: >
