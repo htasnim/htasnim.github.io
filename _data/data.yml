@@ -51,18 +51,23 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a Ph.D. candidate in Computer Science at the University of New Mexico (UNM), 
+      expected to graduate in the fall of 2023. I earned an MS in Computer Science from UNM in 2021. 
+      I received my Master’s and Bachelor’s Degrees in Computer Science and Engineering from the 
+      University of Dhaka, Bangladesh.\n
+      I am working as a Research Assistant under the supervision of Dr. Melanie Moses at Moses 
+      Biocomputational lab. My research primarily focuses on using computational tools to 
+      understand complex biological systems, with a particular emphasis on applying information 
+      theory-based frameworks to large-scale image datasets. My work has the potential to make 
+      significant contributions to the understanding of a variety of biological phenomena, 
+      including the immune response to infections like SARS-CoV-2.
+
 education:
     title: Education
     info:
       - degree: PhD Candidate, Computer Science
         university: University of New Mexico
-        time: 2016 - Present | Expected Graduation Fall 2023
+        time: 2016 - Present \n Expected Graduation Fall 2023
         details: |
            Expected Graduation Fall 2023
       - degree: MS, Computer Science
