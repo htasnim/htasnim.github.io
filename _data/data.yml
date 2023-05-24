@@ -51,10 +51,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a Ph.D. candidate in Computer Science at the University of New Mexico (UNM), 
-      expected to graduate in the fall of 2023. I earned an MS in Computer Science from UNM in 2021. 
-      I received my Master’s and Bachelor’s Degrees in Computer Science and Engineering from the 
-      University of Dhaka, Bangladesh.
+      I am a Ph.D. candidate in Computer Science at the University of New Mexico (UNM), expected to graduate in the fall of 2023. I earned an MS in Computer Science from UNM in 2021. I received my Master’s and Bachelor’s Degrees in Computer Science and Engineering from the sUniversity of Dhaka, Bangladesh.
 
       
       I am working as a Research Assistant under the supervision of Dr. Melanie Moses at Moses 
@@ -69,7 +66,7 @@ education:
     info:
       - degree: PhD Candidate, Computer Science
         university: University of New Mexico
-        time: 2016 - Present |
+        time: 2016 - Present 
               Expected Graduation Fall 2023
         details: |
            Expected Graduation Fall 2023
