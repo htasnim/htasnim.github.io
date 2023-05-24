@@ -24,7 +24,7 @@ sidebar:
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     #languages:
     #  title: Languages
@@ -77,6 +77,9 @@ career-profile:
       3) Modeling Complex Systems 4) Data Science 5) Image Analysis 6) Scientific and Inforamation 
       Visualization 7) Machine Learning for Images
 
+      <g>&dThis is a purple message.
+
+
 
 
 
@@ -87,7 +90,7 @@ education:
         university: University of New Mexico
         time: >
           2016 - Present 
-          Expected Graduation Fall 2023
+          (Expected Graduation Fall 2023)
         details: |
            Expected Graduation Fall 2023
       - degree: MS, Computer Science
