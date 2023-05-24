@@ -143,11 +143,21 @@ experiences:
         details: |
             - Research fellowship at [Data Science at Scale Summer School Program](https://www.lanl.gov/projects/national-security-education-center/information-science-technology/summer-schools/data-science-scale-summer-school/index.php). 
             - Developed an information-theoretic analysis framework that works on multivariate time-varying 
-               [Cinema databases] (https://cinemascience.github.io/) and performs automatic identification of salient regions.
+              [Cinema databases](https://cinemascience.github.io/) and performs automatic identification of salient regions.
+              
+      - role: Teaching Assistant
+        time: Fall 2016 - Spring 2017
+        company: Computer Science, University of New Mexico
+        details: |
+            - Data Structure and Algorithm I (CS 262)- Course Instructor: [Dr. Shuang Luan](https://www.cs.unm.edu/directory/faculty-profiles/shuang-luan.html). (Fall 2016)
+            - Data Structure and Algorithm II (CS 362)- Course Instructor: [Dr. Thomas Hayes](https://www.cs.unm.edu/~hayes/). (Spring 2017)
+            - Responsibilities: Grading homework and exam scripts, holding office hours to assist students with coursework, and proctoring exams.
+            
+               
             
             
 projects:
-    title: Projects
+    title: Research Projects
     #intro: >
      # You can list your side projects in this
       #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
