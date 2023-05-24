@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Humayra Tasnim
-    tagline: PhD Candidate
+    tagline: Ph.D. Candidate @ UNM
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -41,17 +41,17 @@ sidebar:
     interests:
       title: References
       info:
-        - item: Professor Melanie Moses
-          link:
+        - item: Professor Melanie Mose, Ph.D.
+          link: https://www.cs.unm.edu/directory/faculty-profiles/melanie-moses.html
 
-        - item: Goerge Matthew Fricke
-          link:
+        - item: Goerge Matthew Fricke, Ph.D.
+          link: https://fricke.co.uk/
 
-        - item: Soumya Dutta
-          link:
+        - item: Soumya Dutta, Ph.D.
+          link: https://soumyadutta-cse.github.io/
 
-        - item: Steven Hofmeyr 
-          link:
+        - item: Steven Hofmeyr, Ph.D.
+          link: https://crd.lbl.gov/divisions/amcr/computer-science-amcr/class/members/class-staff/steven-hofmeyr/
 
 
 
@@ -73,6 +73,11 @@ career-profile:
       significant contributions to the understanding of a variety of biological phenomena, 
       including the immune response to infections like SARS-CoV-2.
 
+      My research interests include: 1) Computational Biology 2) Information Theory Frameworks
+      3) Modeling Complex Systems 4) Data Science 5) Image Analysis 6) Scientific and Inforamation 
+      Visualization 7) Machine Learning for Images
+
+
 
 
 education:
@@ -80,9 +85,8 @@ education:
     info:
       - degree: PhD Candidate, Computer Science
         university: University of New Mexico
-        time: |
+        time: >
           2016 - Present 
-          
           Expected Graduation Fall 2023
         details: |
            Expected Graduation Fall 2023
