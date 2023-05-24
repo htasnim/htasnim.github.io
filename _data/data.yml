@@ -136,7 +136,14 @@ experiences:
             [(SRP-HPC)](https://shinstitute.org/sustainable-research-pathways-2022/)program.
             - Topic: Analyzing Spatial Features of SARS-CoV-2 Infection Spread in Human Lung using CT Scans Compared 
             to SIMCoV Model.
-            -[Profile](https://shinstitute.org/humayra-tasnim/)
+            - [Profile](https://shinstitute.org/humayra-tasnim/)
+      - role: Summer Research Fellow
+        time: June 2020 - August 2020
+        company: Los Alamos National Laboratory (LANL), NM
+        details: |
+            - Research fellowship at [Data Science at Scale Summer School Program](https://www.lanl.gov/projects/national-security-education-center/information-science-technology/summer-schools/data-science-scale-summer-school/index.php). 
+            - Developed an information-theoretic analysis framework that works on multivariate time-varying 
+               [Cinema databases] (https://cinemascience.github.io/) and performs automatic identification of salient regions.
             
             
 projects:
