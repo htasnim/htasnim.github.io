@@ -77,8 +77,6 @@ career-profile:
       3) Modeling Complex Systems 4) Data Science 5) Image Analysis 6) Scientific and Inforamation 
       Visualization 7) Machine Learning for Images
 
-      <g>&dThis is a purple message.
-
 
 
 
@@ -106,37 +104,54 @@ education:
         university: University of Dhaka
         time: 2009 - 2013
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+         
 experiences:
     title: Experiences
     info:
       - role: Research Assistant
         time: 2017 - Present
-        company: Moses Biological Computation Lab, CS, UNM
+        company: Moses Biological Computation Lab, Computer Science, University of New Mexico 
         details: |
             - Use computer modeling, statistical tools, and simulations to analyze and comprehend complex biological systems scenarios such as spatial association, cell motility, signaling, search behaviors, and localization.
             - Develop information theory-based frameworks that enable the analysis and identification of spatial and temporal relationships within large-scale image datasets.
       - role: Summer Research Intern
         time: June 2023 - August 2023
-        company: Lawrence Berkeley National Laboratory (LBNL) 
+        company: Lawrence Berkeley National Laboratory (LBNL), CA
         details: |
             - Onboarding intern at Computer Languages and Systems Software Group.
             - Topic: Analyzing T-Cell Behavior for Immune Response in SARS-CoV-2 Patients using CT Scans and 
              [SIMCoV Model](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009735)
       - role: Summer Research Intern
-        time: June 2023 - August 2023
-        company: Lawrence Berkeley National Laboratory (LBNL)
+        time: June 2022 - August 2022
+        company: Lawrence Berkeley National Laboratory (LBNL), CA
         details: |
             - Research internship funded by Sustainable Research Pathways for High-Performance Computing 
             [(SRP-HPC)](https://shinstitute.org/sustainable-research-pathways-2022/)program.
             - Topic: Analyzing Spatial Features of SARS-CoV-2 Infection Spread in Human Lung using CT Scans Compared 
             to SIMCoV Model.
+            -[Profile](https://shinstitute.org/humayra-tasnim/)
+      - role: Summer Research Fellow
+        time: June 2020 - August 2020
+        company: Los Alamos National Laboratory (LANL), NM
+        details: |
+            - Research fellowship at [Data Science at Scale Summer School Program](https://www.lanl.gov/projects/national-security-education-center/information-science-technology/summer-schools/data-science-scale-summer-school/index.php). 
+           
+            -  Developed an information-theoretic analysis framework that works on multivariate time-varying 
+               [Cinema databases] (https://cinemascience.github.io/) and performs automatic identification of salient regions.
+            
+      - role: Teaching Assistant
+        time: Fall 2016 - Spring 2017
+        company: Computer Science, University of New Mexico
+        details: |
+            - Data Structure and Algorithm I (CS 262)- Course Instructor: [Dr. Shuang Luan](https://www.cs.unm.edu/directory/faculty-profiles/shuang-luan.html). (Fall 2016)
+            - Data Structure and Algorithm II (CS 362)- Course Instructor: [Dr. Thomas Hayes](https://www.cs.unm.edu/~hayes/). (Spring 2017)
+            - Responsibilities: Grading homework and exam scripts, holding office hours to assist students with coursework, and proctoring exams.
+            
+      - role: Lecturer
+        time: 2014 - 2016
+        company: [Computer Science](https://www.easternuni.edu.bd/departmentOfCSE), Eastern University, Bangladesh
+        details: |
+            -  Courses: Structured and Object-Oriented Programming, Theory of Computation, Software Engineering
             
 projects:
     title: Projects
