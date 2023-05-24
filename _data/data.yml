@@ -26,29 +26,27 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
+    #languages:
+    #  title: Languages
+    #  info:
+     #   - idiom: English
+      #    level: Native
 
-        - idiom: French
-          level: Professional
+       # - idiom: French
+        #  level: Professional
 
-        - idiom: Spanish
-          level: Professional
+        #- idiom: Spanish
+         # level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Reading
           link:
 
-        - item: Snowboarding
+        - item: Biking
           link:
 
-        - item: Cooking
-          link:
 
 career-profile:
     title: Career Profile
