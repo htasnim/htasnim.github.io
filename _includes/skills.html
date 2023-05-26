@@ -27,5 +27,30 @@
 
   </div>
 
+
+  {% if skills.intro %}
+  <div class="intro">
+      <p>{{ skills.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for skill in skill.assignments %}
+    <div class="item">
+
+      <span class="project-title">
+        {% if skill.link %}
+        <a href="{{ skill.link }}" target="_blank">{{ skill.title }}</a>
+        {% else %}
+        {{ skill.title }}
+        {% endif %}
+      </span>
+
+      {% if skill.tagline %}
+      - <span class="project-tagline">{{ skill.tagline }}</span>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
+
 </section><!--//skills-section-->
 {% endif %}
