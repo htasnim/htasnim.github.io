@@ -195,8 +195,8 @@ skills:
       #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Quantitative Measurement of Spatial Association in Biological Systems 
-        link: "https://digitalrepository.unm.edu/cs_sp/1/"
+      - title: Test 
+        link: "#"
         #tagline: "An information theoratic framework that quantitatively measures the spatial association of naive T cells with other cell types in lymph nodes."
 
 
