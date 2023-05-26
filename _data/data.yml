@@ -188,6 +188,17 @@ projects:
         link: "https://drive.google.com/file/d/1Pl0OF0bUNIww5r4ZqGr9wzYcnelbEvFR/view?usp=sharing"
         #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
+skills:
+    title: Application-Based Projects and Course Projects
+    #intro: >
+     # You can list your side projects in this
+      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Quantitative Measurement of Spatial Association in Biological Systems 
+        link: "https://digitalrepository.unm.edu/cs_sp/1/"
+        #tagline: "An information theoratic framework that quantitatively measures the spatial association of naive T cells with other cell types in lymph nodes."
+
 
 
 #oss:
