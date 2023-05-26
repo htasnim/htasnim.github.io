@@ -188,8 +188,33 @@ projects:
         link: "https://drive.google.com/file/d/1Pl0OF0bUNIww5r4ZqGr9wzYcnelbEvFR/view?usp=sharing"
         #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-skills: 
+projects:
     title: Application-Based Projects
+    #intro: >
+     # You can list your side projects in this
+      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Quantitative Measurement of Spatial Association in Biological Systems 
+        link: "https://digitalrepository.unm.edu/cs_sp/1/"
+        #tagline: "An information theoratic framework that quantitatively measures the spatial association of naive T cells with other cell types in lymph nodes."
+
+      - title: Information-theoretic Feature Exploration of Multivariate Time-Varying Image Databases
+        link: "Information-theoretic Exploration of Multivariate Time-Varying Image Databases"
+        #tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Spatial Immune Model of Coronavirus (SIMCoV)
+        link: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009735"
+        #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Feature-Based Temporal Data Summaries using Information Based Fusion
+        link: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9671581"
+        #tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Spatial Features Analysis of SARS-CoV-2 in Lung CT scans
+        link: "https://drive.google.com/file/d/1Pl0OF0bUNIww5r4ZqGr9wzYcnelbEvFR/view?usp=sharing"
+        #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
 oss:
     title: OSS Contributions
     intro: >
