@@ -162,9 +162,12 @@ experiences:
             
             
 projects:
-    title: Projects
-    #intro: Research
-     assignments:
+    title: Research Projects
+    #intro: >
+     # You can list your side projects in this
+      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
       - title: Quantitative Measurement of Spatial Association in Biological Systems 
         link: "https://digitalrepository.unm.edu/cs_sp/1/"
         #tagline: "An information theoratic framework that quantitatively measures the spatial association of naive T cells with other cell types in lymph nodes."
@@ -185,7 +188,8 @@ projects:
         link: "https://drive.google.com/file/d/1Pl0OF0bUNIww5r4ZqGr9wzYcnelbEvFR/view?usp=sharing"
         #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-     
+
+
 oss:
     title: OSS Contributions
     intro: >
@@ -230,24 +234,24 @@ publications:
 skills:
     title: Skills &amp; Proficiency
 
-#    toolset:
-#      - name: Python & Django
-#        level: 98%
+    toolset:
+      - name: Python & Django
+        level: 98%
 
-#      - name: Javascript & jQuery
- #       level: 98%
+      - name: Javascript & jQuery
+        level: 98%
 
-  #    - name: Angular
-   #     level: 98%
+      - name: Angular
+        level: 98%
 
-    #  - name: HTML5 & CSS
-     #   level: 95%
+      - name: HTML5 & CSS
+        level: 95%
 
-     # - name: Ruby on Rails
-     #   level: 85%
+      - name: Ruby on Rails
+        level: 85%
 
-      #- name: Sketch & Photoshop
-       # level: 60%
+      - name: Sketch & Photoshop
+        level: 60%
 
 #footer: >
  #   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
