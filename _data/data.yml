@@ -185,11 +185,10 @@ projects:
         link: "https://drive.google.com/file/d/1Pl0OF0bUNIww5r4ZqGr9wzYcnelbEvFR/view?usp=sharing"
         #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-projects:
-   
+
     intro: Application-Based
      
-    assignments:
+     assignments:
       - title: Quantitative Measurement of Spatial Association in Biological Systems 
         link: "https://digitalrepository.unm.edu/cs_sp/1/"
         #tagline: "An information theoratic framework that quantitatively measures the spatial association of naive T cells with other cell types in lymph nodes."
