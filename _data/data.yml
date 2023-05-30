@@ -168,13 +168,24 @@ publications:
     papers:
       - title: Information-Theoretic Exploration of Multivariate Time-Varying Image Databases
         link: "https://ieeexplore.ieee.org/abstract/document/9826433"
-        authors: H. Tasnim, S. Dutta, T. L. Turton, D. Rogers, and M. E. Moses.
+        authors: Humayra Tasnim; Soumya Dutta; Terece L. Turton; David H. Rogers; Melanie E. Moses
         conference: IEEE, Computing in Science & Engineering 2022
       - title: InSitu Adaptive Spatio-Temporal Data Summarization
         link: "https://ieeexplore.ieee.org/abstract/document/9671581"
         authors: Soumya Dutta; Humayra Tasnim; Terece L. Turton; James Ahrens
-        conference: IEEE International Conference on Big Data (IEEEBigdata) 2021, pp. 315-321.       
-      
+        conference: IEEE International Conference on Big Data (IEEEBigdata) 2021, pp. 315-321.
+      - title: Spatially distributed infection increases viral load in a computational model of SARS-CoV-2 lung infection
+        link: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009735"
+        authors: Melanie E Moses, Steven Hofmeyr, Judy L Cannon, Akil Andrews, Rebekah Gridley, Monica Hinga, Kirtus Leyba, Abigail Pribisova, Vanessa Surjadidjaja, Humayra Tasnim, Stephanie Forrest        
+        conference: PLoS Computational Biology.2021;17(12):e1009735.
+      - title: Modeling T Cell Motion in Tissues During Immune Responses
+        link: "https://www.cell.com/biophysj/pdf/S0006-3495(18)33014-5.pdf"
+        authors: Judy L Cannon, Melanie E Moses, Janie R Byrum, Paulus Mrass, G Matthew Fricke, Humayra Tasnim
+        conference: Biophysical Journal 116 (3), 322a, Elsevier, 2019
+      - title: Quantitative Measurement of Naive T cell Association with Dendritic Cells, FRC, and Blood Vessels in Lymph Nodes.
+        link: "https://www.frontiersin.org/articles/10.3389/fimmu.2018.01571/full"
+        authors: Humayra Tasnim, G Matthew Fricke, Janie R Byrum, Justyna O Sotiris, Judy L Cannon, Melanie E Moses
+        conference: Frontiers in Immunology, section Microbial Immunology, 2018, Front.Immunol.9:1571.doi: 10.3389/fimmu.2018.01571       
 #
 #      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
 #        link: "#"
