@@ -197,7 +197,7 @@ skills:
     assignments:
       - title: Swarmathon The Next Generation 
         link: "https://swarmathon-tng.cs.unm.edu"
-        tagline: "Technical Lead of the project sponsored by [Google exploreCSR](https://research.google/outreach/explore-csr/)outreach program for two consequetive years (2019 and 2020). We organized a special topic course(Spring 2022) and a workshop (Spring 2021)" 
+        tagline: "Technical Lead of the project sponsored by [Google exploreCSR](https://research.google/outreach/explore-csr/) outreach program for two consequetive years (2019 and 2020). We organized a special topic course(Spring 2022) and a workshop (Spring 2021)" 
         to encourage women undergrad students to pursue research careers, focusing on AI and machine learning. The Workshop provided basic ideas to use machine learning framework, 
         TensorFlow, to train neural network models. As an application, I integrated object detection features into the swarm robots 
         developed in the Moses lab for autonomous detection and collection of objects."
