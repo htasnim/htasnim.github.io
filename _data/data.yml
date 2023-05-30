@@ -197,17 +197,16 @@ skills:
     assignments:
       - title: Swarmathon The Next Generation 
         link: "https://swarmathon-tng.cs.unm.edu"
-        tagline: "Technical Lead of the project sponsored by [Google exploreCSR](https://research.google/outreach/explore-csr/) outreach program for two consequetive years (2019 and 2020). We organized a special topic course(Spring 2022) and a workshop (Spring 2021)
-        to encourage women undergrad students to pursue research careers, focusing on AI and machine learning. The Workshop provided basic ideas to use machine learning framework, 
-        TensorFlow, to train neural network models. As an application, I integrated object detection features into the swarm robots 
-        developed in the Moses lab for autonomous detection and collection of objects."
-      #- title: 
+        tagline: "Technical Lead of the project sponsored by Google exploreCSR outreach program for two consequetive years (2019 and 2020)."
+      - title: UNM Chili House - NASA MINDS Challenge
+        link: "https://news.unm.edu/news/could-plants-control-robots-on-mars"
+        tagline: "Graduate Student Advisor of the team working on the approach to implementing the autonomous path-planning procedure of the robots"
 
 
 
 #oss:
 #    title: OSS Contributions
-#    intro: >
+#    intro: > 
 #      You can list your open source software contributions in this
 #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
