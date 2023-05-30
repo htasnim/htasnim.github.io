@@ -195,9 +195,11 @@ skills:
       #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Test 
-        link: "#"
+      - title: Swarmathon : The Next Generation 
+        link: "https://swarmathon-tng.cs.unm.edu"
         #tagline: "An information theoratic framework that quantitatively measures the spatial association of naive T cells with other cell types in lymph nodes."
+        details: |
+            -test if works
 
 
 

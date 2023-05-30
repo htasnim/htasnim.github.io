@@ -48,6 +48,12 @@
       {% if skill.tagline %}
       - <span class="project-tagline">{{ skill.tagline }}</span>
       {% endif %}
+	  
+	  {% if skill.details %}
+	  <div class="details">
+		{{ skill.details | markdownify }}
+	  </div><!--//details-->
+      {% endif %}
 
     </div><!--//item-->
   {% endfor %}
