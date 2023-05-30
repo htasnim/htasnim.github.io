@@ -166,10 +166,15 @@ publications:
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Information-Theoretic Exploration of Multivariate Time-Varying Image Databases
+        link: "https://ieeexplore.ieee.org/abstract/document/9826433"
+        authors: H. Tasnim, S. Dutta, T. L. Turton, D. Rogers, and M. E. Moses.
+        conference: IEEE, Computing in Science & Engineering 2022
+      - title: InSitu Adaptive Spatio-Temporal Data Summarization
+        link: "https://ieeexplore.ieee.org/abstract/document/9671581"
+        authors: Soumya Dutta; Humayra Tasnim; Terece L. Turton; James Ahrens
+        conference: IEEE International Conference on Big Data (IEEEBigdata) 2021, pp. 315-321.       
+      
 #
 #      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
 #        link: "#"
