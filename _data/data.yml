@@ -175,6 +175,10 @@ projects:
       - title: Information-theoretic Feature Exploration of Multivariate Time-Varying Image Databases
         link: "Information-theoretic Exploration of Multivariate Time-Varying Image Databases"
         #tagline: "A responsive website template designed to help web developers/designers market their services."
+        
+      - title: Feature-Based Temporal Data Summaries using Information Based Fusion
+        link: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9671581"
+        #tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
       - title: Spatial Immune Model of Coronavirus (SIMCoV)
         link: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009735"
@@ -189,7 +193,7 @@ projects:
         #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
-    title: Application-Based Projects and Course Projects
+    title: Application-Based Projects
     #intro: >
      # You can list your side projects in this
       #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -206,8 +210,20 @@ skills:
         tagline: "Finalist (Team Swarmathon)" 
       - title: Classification of DNA Sequence using Machine Learning Decision Tree Algorithm 
         link: "https://github.com/htasnim/decisionTree" 
-        tagline: "A class project on Comprehensive Study of Decision Trees to Classify DNA Sequences. Paper link https://www.cs.unm.edu/~htasnim30/files/ML_pro1.pdf "        
-      
+        tagline: "Machine Learning class project on Comprehensive Study of Decision Trees to Classify DNA Sequences. Report link https://www.cs.unm.edu/~htasnim30/files/ML_pro1.pdf "        
+      - title: Text Categorization using Naive Bayes Classifier and Logistic Regression
+        link: "https://github.com/htasnim/Naive-Bayes-Logistic-Regression-Classifier-ML2"
+        tagline: "Machine learning class project"
+      - title: Implement and Analyze Forest Fire Behavior as Cellular Automata Model 
+        link: "https://github.com/htasnim/CS523-cellular-automata"
+        tagline: "Class project of Complex adaptive system. Report link https://www.cs.unm.edu/~htasnim30/files/comprehensive-study-forest.pdf"
+      - title: Evolving Core War Warriors Using a Genetic Algorithm
+        link: "https://github.com/wcollishaw/CS523-Project-2-T13"
+        tagline: " Class project of Complex adaptive system. Report link https://www.cs.unm.edu/~htasnim30/files/evolving-core-war.pdf " 
+      - title: Discovering Structure and Behavior in Complex Adaptive Systems 
+        link: "https://github.com/htasnim/dynamical_sys"
+        tagline: "Class project of Complex adaptive system. Report link https://www.cs.unm.edu/~htasnim30/files/discovering-structure-behavior.pdf"        
+        
 
 
 
