@@ -162,9 +162,7 @@ experiences:
 publications:
     title: Publications
 #    intro: |
-#      You can list your publications in this section. Lorem ipsum dolor sit
-#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#      bibendum fringilla a eu lectus.
+#      [Google Scholar Profile]()
     papers:
       - title: Information-Theoretic Exploration of Multivariate Time-Varying Image Databases
         link: "https://ieeexplore.ieee.org/abstract/document/9826433"
@@ -185,7 +183,7 @@ publications:
       - title: Quantitative Measurement of Naive T cell Association with Dendritic Cells, FRC, and Blood Vessels in Lymph Nodes.
         link: "https://www.frontiersin.org/articles/10.3389/fimmu.2018.01571/full"
         authors: Humayra Tasnim, G Matthew Fricke, Janie R Byrum, Justyna O Sotiris, Judy L Cannon, Melanie E Moses
-        conference: Frontiers in Immunology, section Microbial Immunology, 2018, Front.Immunol.9:1571.doi: 10.3389/fimmu.2018.01571       
+        conference: Frontiers in Immunology, section Microbial Immunology, 2018       
 #
 #      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
 #        link: "#"
