@@ -198,8 +198,8 @@ skills:
       - title: Swarmathon : The Next Generation 
         link: "https://swarmathon-tng.cs.unm.edu"
         #tagline: "An information theoratic framework that quantitatively measures the spatial association of naive T cells with other cell types in lymph nodes."
-        details: |
-            -test if works
+        #details: |
+         #   -test if works
 
 
 
