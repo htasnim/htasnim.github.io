@@ -161,8 +161,8 @@ experiences:
 
 publications:
     title: Publications
-#    intro: |
-#      [Google Scholar Profile]()
+    intro: |
+      [Google Scholar Profile](https://scholar.google.com/citations?user=Q-vo1KQAAAAJ&hl=en)
     papers:
       - title: Information-Theoretic Exploration of Multivariate Time-Varying Image Databases
         link: "https://ieeexplore.ieee.org/abstract/document/9826433"
