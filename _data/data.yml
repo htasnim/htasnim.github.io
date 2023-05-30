@@ -200,7 +200,14 @@ skills:
         tagline: "Technical Lead of the project sponsored by Google exploreCSR outreach program for two consequetive years (2019 and 2020)."
       - title: UNM Chili House - NASA MINDS Challenge
         link: "https://news.unm.edu/news/could-plants-control-robots-on-mars"
-        tagline: "Graduate Student Advisor of the team working on the approach to implementing the autonomous path-planning procedure of the robots"
+        tagline: "Graduate Student Advisor of the team working on the approach to implementing the autonomous path-planning procedure of the robots."
+      - title: NASA Space Robotics Challenge Phase 2
+        link: "https://spacecenter.org/space-robotics-challenge/space-robotics-challenge-phase-2/"
+        tagline: "Finalist (Team Swarmathon)" 
+      - title: Classification of DNA Sequence using Machine Learning Decision Tree Algorithm 
+        link: "https://github.com/htasnim/decisionTree" 
+        tagline: "A class project on Comprehensive Study of Decision Trees to Classify DNA Sequences. Paper link https://www.cs.unm.edu/~htasnim30/files/ML_pro1.pdf "        
+      
 
 
 
