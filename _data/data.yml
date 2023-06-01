@@ -222,10 +222,7 @@ projects:
         link: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009735"
         #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Feature-Based Temporal Data Summaries using Information Based Fusion
-        link: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9671581"
-        #tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
+ 
       - title: Spatial Features Analysis of SARS-CoV-2 in Lung CT scans
         link: "https://drive.google.com/file/d/1Pl0OF0bUNIww5r4ZqGr9wzYcnelbEvFR/view?usp=sharing"
         #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
