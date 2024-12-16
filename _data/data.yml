@@ -126,18 +126,6 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Instructional Post Doctoral Fellow
-        time: August 2024 - Present
-        company: Department of Computer Science, University of New Mexico Albuquerque, New Mexico 
-        details: |
-            Instructor for courses: Introduction to Programming using Python, Data Structure and Algorithms
-      - role: Post Doctoral Research Fellow July 2024 - Present
-        time: July 2024 - Present
-        company: Office of the Vice President for Research (OVPR), University of New Mexico Albuquerque, New Mexico
-        details: |
-            - Semi-automate or automate processes in the OVPR units to improve customer service using AI and
-Large Language Models   
-
       - role: Research Assistant
         time: 2017 - 2024
         company: Moses Biological Computation Lab, Computer Science, University of New Mexico 
