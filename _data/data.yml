@@ -12,10 +12,10 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: humayra3010@gmail.com, tasnimhumayra30@gmail.com
+    email: humayra3010@gmail.com;tasnimhumayra30@gmail.com;htasnim30@unm.edu
     #telegram: @htasnim30@unm.edu
     #email: htasnim30@unm.edu
-    website: htasnim30@unm.edu #do not add http://
+    website: htasnim.github.io #do not add http://
     linkedin: humayra-tasnim-aaa614170
     github: htasnim
     #telegram: # add your nickname without '@' sign
@@ -67,21 +67,23 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a Ph.D. candidate in Computer Science at the University of New Mexico (UNM), 
-      expected to graduate in the fall of 2023. I earned an MS in Computer Science from 
+      I aexpectm a Postdoc in Computer Science at the University of New Mexico (UNM). I received my Ph.D 
+      in computer science from UNM in Summer 2024. I earned an MS in Computer Science from 
       UNM in 2021. I received my Master’s and Bachelor’s Degrees in Computer Science 
       and Engineering from the University of Dhaka, Bangladesh.
 
       
-      I am working as a Research Assistant under the supervision of [Professor Melanie Moses](https://www.cs.unm.edu/directory/faculty-profiles/melanie-moses.html) 
-      at [Moses Biological Computational lab](https://moseslab.cs.unm.edu/). My research primarily focuses on using computational tools to 
-      understand complex biological systems, with a particular emphasis on applying information 
-      theory-based frameworks to large-scale image datasets. My work has the potential to make 
-      significant contributions to the understanding of a variety of biological phenomena, 
-      including the immune response to infections like SARS-CoV-2.
+      My research aims to develop advanced computational techniques for analyzing complex biological systems and
+      biomedical imaging, to boost understanding, facilitate discovery, and improve prognosis capabilities. To date,
+      my research focuses on modeling and simulation of intricate biological phenomena, developing information theory
+      frameworks for spatial-temporal relationships in complex systems, and employing visual computation and
+      advanced image analysis to extract meaningful insights from biological datasets. A key future direction involves
+      integrating explainable AI and machine learning to enhance data-driven insights and predictions and support
+      pertinent biological system modeling. My research lies at the nexus of biological modeling and biomedical image
+      analysis using artificial intelligence, machine learning, and information theory-based tools
 
-      My research interests include: 1) Computational Biology 2) Information Theory Frameworks
-      3) Modeling Complex Systems 4) Data Science 5) Image Analysis 6) Scientific and Information 
+      My research interests include: 1) AI based Computational Sciences for Biological Applications 2) Computational Biology 
+      3) Information Theory Frameworks 4) Modeling Complex Systems 5) Image Data Analysis 6) Scientific and Information 
       Visualization 7) Machine Learning for Images
 
 
@@ -91,13 +93,10 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: PhD Candidate, Computer Science
+      - degree: PhD, Computer Science
         university: University of New Mexico
         time: >
-          2016 - Present 
-          (Expected Graduation Fall 2023)
-        details: |
-           Expected Graduation Fall 2023
+          2016 - 2024
       - degree: MS, Computer Science
         university: University of New Mexico
         time: Fall 2021
@@ -118,12 +117,29 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-         
+ 
+
+
+
+
+      
 experiences:
     title: Experiences
     info:
+      - role: Instructional Post Doctoral Fellow
+        time: August 2024 - Present
+        company: Department of Computer Science, University of New Mexico Albuquerque, New Mexico 
+        details: |
+            Instructor for courses: Introduction to Programming using Python, Data Structure and Algorithms
+      - role: Post Doctoral Research Fellow July 2024 - Present
+        time: July 2024 - Present
+        company: Office of the Vice President for Research (OVPR), University of New Mexico Albuquerque, New Mexico
+        details: |
+            Project: Semi-automate or automate processes in the OVPR units to improve customer service using AI and
+Large Language Models   
+
       - role: Research Assistant
-        time: 2017 - Present
+        time: 2017 - 2024
         company: Moses Biological Computation Lab, Computer Science, University of New Mexico 
         details: |
             - Use computer modeling, statistical tools, and simulations to analyze and comprehend complex biological systems scenarios such as spatial association, cell motility, signaling, search behaviors, and localization.
