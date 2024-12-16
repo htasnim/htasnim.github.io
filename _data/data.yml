@@ -8,11 +8,11 @@ sidebar:
 
     # Profile information
     name: Humayra Tasnim
-    tagline: Ph.D. Candidate @ UNM
+    tagline: Ph.D. PostDoc @ UNM
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: humayra3010@gmail.com
+    email: humayra3010@gmail.com, tasnimhumayra30@gmail.com
     #telegram: @htasnim30@unm.edu
     #email: htasnim30@unm.edu
     website: htasnim30@unm.edu #do not add http://
@@ -44,6 +44,12 @@ sidebar:
       info:
         - item: Professor Melanie Moses, Ph.D.
           link: https://www.cs.unm.edu/directory/faculty-profiles/melanie-moses.html
+
+        - item: Professor Judy L. Cannon, Ph.D.
+          link: https://hsc.unm.edu/directory/cannon-judy1.html
+
+        - item: Professor Shuang (Sean) Luan, Ph.D.
+          link: https://www.cs.unm.edu/directory/faculty-profiles/shuang-luan.html
 
         - item: Matthew Fricke, Ph.D.
           link: https://fricke.co.uk/
