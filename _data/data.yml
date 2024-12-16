@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: humayra3010@gmail.com;tasnimhumayra30@gmail.com;htasnim30@unm.edu
+    email: humayra3010@gmail.com,tasnimhumayra30@gmail.com,htasnim30@unm.edu
     #telegram: @htasnim30@unm.edu
     #email: htasnim30@unm.edu
     website: htasnim.github.io #do not add http://
@@ -178,7 +178,7 @@ Large Language Models
       - role: Lecturer
         time: 2014 - 2016
         company: Computer Science, Eastern University, Bangladesh
-        details: | 
+        details: |
             - Courses: Structured and Object-Oriented Programming, Theory of Computation, Software Engineering
             
 
@@ -192,7 +192,6 @@ publications:
       - title: Dissertation Insight Into Complexity-Novel Information Theoretic Analysis of Spatiotemporal Interactions
         link: https://digitalrepository.unm.edu/cs_etds/127/
         authors: Humayra Tasnim
-        conference: 2024 
       - title: Information-Theoretic Exploration of Multivariate Time-Varying Image Databases
         link: "https://ieeexplore.ieee.org/abstract/document/9826433"
         authors: Humayra Tasnim; Soumya Dutta; Terece L. Turton; David H. Rogers; Melanie E. Moses
