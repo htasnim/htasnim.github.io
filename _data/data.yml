@@ -12,10 +12,11 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: humayra3010@gmail.com,tasnimhumayra30@gmail.com,htasnim30@unm.edu
+    email: humayra3010@gmail.com,
+    email: tasnimhumayra30@gmail.com
     #telegram: @htasnim30@unm.edu
     #email: htasnim30@unm.edu
-    website: htasnim.github.io #do not add http://
+    website: htasnim30@unm.edu #do not add http://
     linkedin: humayra-tasnim-aaa614170
     github: htasnim
     #telegram: # add your nickname without '@' sign
@@ -126,6 +127,11 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Instructional Post Doctoral Fellow
+        time: Aug 2024 - Present
+        company: Computer Science, University of New Mexico 
+        details: |
+            - Instructor for courses: Introduction to Programming using Python, Data Structure and Algorithms 
       - role: Research Assistant
         time: 2017 - 2024
         company: Moses Biological Computation Lab, Computer Science, University of New Mexico 
@@ -177,7 +183,7 @@ publications:
       
       [Orcid Profile](https://orcid.org/0000-0002-7796-7717)
     papers:
-      - title: Dissertation Insight Into Complexity-Novel Information Theoretic Analysis of Spatiotemporal Interactions
+      - title: Dissertation Insight Into Complexity- Novel Information Theoretic Analysis of Spatiotemporal Interactions
         link: https://digitalrepository.unm.edu/cs_etds/127/
         authors: Humayra Tasnim
       - title: Information-Theoretic Exploration of Multivariate Time-Varying Image Databases
